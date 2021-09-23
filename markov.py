@@ -6,8 +6,6 @@ import requests
 
 base_url = 'http://api.musixmatch.com/ws/1.1/'
 
-token = 'ODkwNjY1OTg1MTAxNjg4ODQy.YUzHVg._5jR1vN45SpcE3ra2VH_o2lKQZA'
-
 
 def open_and_read_file(file_path):
     """Take file path as string; return text as string.
